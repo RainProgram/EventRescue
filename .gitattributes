@@ -1,0 +1,6 @@
+*.resx linguist-vendored
+*.xml linguist-vendored
+*.json linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.cs linguist-language=C#
